@@ -36,9 +36,6 @@
 <Room name="Jungle Furniture">
   <File>jungle_furniturestore.swf</File>
   <Tribe>1</Tribe>
-</Room>
-<Room name="GamesRoom">
-</Room>
 
 <Room name="Jungle Pathway 1">
   <File>jungle_path1.swf</File>
@@ -139,7 +136,7 @@
   <Tribe>2</Tribe>
 </Room>
 
-<Room name="Battle Zone1">
+<Room name="الساحة">
   <File>noman_midbridge.swf</File>
 </Room>
 <Room name="Volcano Furniture">
@@ -154,12 +151,6 @@
 </Room>
 <Room name="Marbles Game">
 	<File>noman_marbles.swf</File>
-</Room>
-<Room name="Backgammon Room">
-	<Access>0</Access>
-</Room>
-<Room name="Connect4 Room">
-	<Access>0</Access>
 </Room>
 <Room name="Jungle Pathway 3">
   <File>jungle_path3.swf</File>
